@@ -1,0 +1,18 @@
+{
+	"type" : "Feature",
+	"geometry" : {
+		"type" : "Point",
+		"coordinates" : [ 14.382075502000077, 50.08556168400003 ]
+	},
+	"properties" : {
+		"OBJECTID" : 1,
+		"ZAST_UZEL_CISLO" : 362,
+		"ZAST_NAZEV" : "Malovanka",
+		"ZAST_TYP" : null,
+		"ZAST_PASMO" : "P",
+		"ZAST_OBEC" : "Praha",
+		"ZAST_DD" : 2,
+		"ZAST_DENNOC" : 1,
+		"ZAST_DATUM" : "20210608"
+	}
+}
